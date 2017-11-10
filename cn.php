@@ -11,7 +11,7 @@
 				<a style="background-color: rgba(0,0,0,0.05)" class="topbutton dropdown-button btn-flat" data-activates="dropdown">地区</a>
 				<ul id="dropdown" class="dropdown-content">
 					<li><a onclick="selectAmerica()">美国</a></li>
-					<li><a onclick="selectEurope()">Europa</a></li>
+					<li><a onclick="selectEurope()">欧洲</a></li>
 					<li><a onclick="selectAsia()">亚洲</a></li>
 				</ul>
 				<a style="background-color: rgba(0,0,0,0.05)" onclick="saveSettings()" class="topbutton waves-effect waves-orange btn-flat">保存</a>
