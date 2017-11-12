@@ -164,7 +164,7 @@
 							<textarea id="feedbackarea" class="materialize-textarea" length="500"></textarea>
 							<label style="top: 4px; left: 16px" for="feedbackarea">Text...</label>
 						</div>
-						<div class="col s3"><a onclick="sendfeedback();" style="height: 100px; padding-top: 23%;" class="waves-effect waves-orange btn-flat">发送(Отправить)</a></div>
+						<div class="col s3"><a onclick="sendfeedback();" style="height: 100px; padding-top: 23%;" class="waves-effect waves-orange btn-flat">发送</a></div>
 					</div>
 					<p><b>源码</b> - 你可以在 <a href="https://github.com/Disquse/PUBGServersPing">GitHub</a>查看网站代码. 在使用之前,阅读许可证!随意贡献,报告问题和其他!</p>
 					<p><b>我延迟(Ping)很低,但是有延迟卡顿(lagging)</b> - PUBG服务器的主要问题不是延迟. 游戏服务器刚刚超载,这就是为什么你卡顿(lagging). 您可以尝试在其他服务器上游玩. Big ping is much smaller problem that overloaded servers. 我们无法检查服务器负载...</p>
@@ -479,7 +479,7 @@
 			let boxid = box.id;
 			setCookie('region'+index, document.getElementById('ch_'+boxid).checked, 30);
 		});
-		Materialize.toast('Your settings was saved', 2000);
+		Materialize.toast('你的设置已保存', 2000);
 	}
 	
 	function loadSettings() {
