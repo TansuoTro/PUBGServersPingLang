@@ -176,6 +176,7 @@
 					<p><b>感谢:</b><br><a href="https://github.com/nino6454">nino6454</a> 翻译西班牙语</p>
 					<p><a href="https://github.com/Cethiel">Cethiel</a> 翻译法语</p>
 					<p><a href="https://github.com/ngocnh">NgocNH</a> 翻译越南语</p>
+					<p><a href="https://github.com/FastChen">FastChen</a> 翻译简体中文</p>
 				</div>
 				<div class="modal-footer">
 					<a class="modal-action modal-close waves-effect waves-orange btn-flat">关闭</a>
